@@ -1,2 +1,3 @@
-# mxpassgen
-Matrix Password Generator
+# Matrix Password Generator
+
+Start :)
